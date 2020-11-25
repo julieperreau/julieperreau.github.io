@@ -8,8 +8,8 @@ Graduate Student, Provost's Graduate Excellence Fellow<br>
 Institute for Cellular and Molecular Biology<br>
 University of Texas at Austin
 
-email: <a class="email" href="mailto:jmaperreau@gmail.com">jmaperreau@gmail.com</a>
-web: 
+email: <a class="email" href="mailto:jmaperreau@gmail.com">jmaperreau@gmail.com</a><br>
+web: [https://julieperreau.github.io/](https://julieperreau.github.io/)
 
 ## Education
 
