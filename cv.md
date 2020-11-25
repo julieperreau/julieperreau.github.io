@@ -61,10 +61,10 @@ Awarded by the Florida Chapter of The Wildlife Society and Florida Wildlife Fede
 
 *Teaching Assistant:*  
 
-SDS 328M: Biostatistics and Biostatistics Lab. Spring 2020. Department of Statistics and Data Sciences, University of Texas at Austin.<br>
-BIO 370:  Evolution. Fall 2018. Department of Integrative Biology, University of Texas at Austin.<br>
+SDS 328M: Biostatistics and Biostatistics Lab. 2020. Department of Statistics and Data Sciences, University of Texas at Austin.<br>
+BIO 370:  Evolution. 2018. Department of Integrative Biology, University of Texas at Austin.<br>
 • Course Instructors: Howard Ochman, Thomas Juenger<br>
-Freshman Seminar 24Q: Biology of Symbioses. Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.<br>
+Freshman Seminar 24Q: Biology of Symbioses. 2015. Department of Organismic and Evolutionary Biology, Harvard University.<br>
 • Course Instructor: Colleen Cavanaugh<br>
 
 *Workshop Instructor:*
