@@ -3,28 +3,21 @@ layout: default
 ---
 
 ## Julie Perreau
-
 Graduate Student, Provost Graduate Excellence Fellow
-
 Institute for Cellular and Molecular Biology
-
 University of Texas at Austin
 
 email: jmaperreau@gmail.com
-
 web: http://www.julieperreau.github.io
 
 
 ## Education
 
 Ph.D. Microbiology. Expected 2021. **University of Texas at Austin**
-
 Graduate Committee: Nancy A. Moran, Jeffrey E. Barrick, Justin C. Havird, Christopher S. Sullivan
 	
 M.Sc. Evolutionary Biology. 2016. [MEME Masters Program](https://www.evobio.eu/)
-
 • Coursework completed at: **University of Groningen**, Groningen, NL and **University of Montpellier**, Montpellier, FR
-
 • Thesis work completed at: **Harvard University**, Boston, MA and **Pasteur Institute**, Paris, FR
 
 B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida**
@@ -54,45 +47,28 @@ Available as a pre-print in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/
 ## Grants, Fellowships, and Awards  
 
 **Seed Grants for Actions that promote Community Transformation (ACT).**. 2020. $5,000.
-
 Seed funding towards development of an Anti-Racist Tool Kit (ARTK) for STEM labs.
-	
 **Provost’s Graduate Excellence Fellowship.** 2016.
-
 **Hamilton Endowed Grad Fellowship.** 2020. $4,000.
-
 **Integrative Biology Research Grant.** 2018.	$2,000.
-
 **EACEA Erasmus Mundus Fellowship.** 2014-2016.	€50,000
-
 **National Wildlife Federation EcoLeaders Research Fellowship.** 2013. $2,000.
-
 **University of Florida University Scholars Program Fellow.** 2013. $1,750.
-
 **Greater Everglades Student Memorial Scholarship.** 2013. $2,000.
-
 Awarded by the Florida Chapter of The Wildlife Society and Florida Wildlife Federation
-	
 **Nancy K. Czerwinski Looney Memorial Scholarship.** $1,500. 2013.
-
 **Monica Christina Stokely Memorial Scholarship.** $1,250. 2012.
 
 
 ## Teaching Experience
 
-
 *Teaching Assistant:*  
 
 SDS 328M: Biostatistics and Biostatistics Lab. Spring 2020. Department of Statistics and Data Sciences, University of Texas at Austin.
-
-BIO 370:  Evolution. Fall 2018. Department of Integrative Biology, University of Texas at Austin.
-	
-Course Instructors: Howard Ochman, Thomas Juenger
-					
+BIO 370:  Evolution. Fall 2018. Department of Integrative Biology, University of Texas at Austin.	
+• Course Instructors: Howard Ochman, Thomas Juenger				
 Freshman Seminar 24Q: Biology of Symbioses. Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.
-
-Course Instructor: Colleen Cavanaugh
-
+• Course Instructor: Colleen Cavanaugh
 
 *Workshop Instructor:*  
 
@@ -104,17 +80,11 @@ Evolutionary Bioinformatics Undergraduate Group (eBUG): "Phylogenetics: Theory a
 *Undergraduate researchers:*  
 
 Hanna A. Anderson, 2018 - Present
-
 • Awarded Undergraduate Research Fellowship in Spring 2020
-
 Devki J. Patel, 2018 - Present
-
 Ali Askari, 2019 - 2020
-
 Caylee B. Carpenter, 2018 - 2019
-
 Filipa M. Marques, 2016
-
 • Amgen Scholars Program Intern for Summer 2016 
 
 *Team projects:*
@@ -125,26 +95,15 @@ UT Austin iGEM Team, [Broad Host Range Plasmid Kit](http://2018.igem.org/Team:Au
 ## Appointments
 
 **Provost Graduate Excellence Fellow.**. 2016 – Present. Institute for Cellular and Molecular Biology, University of Texas at Austin.
-
 **Graduate Teaching Assistant.** Spring 2020. Department of Statistics and Data Sciences, University of Texas at Austin.
-
 **Graduate Teaching Assistant.** Fall 2018. Department of Integrative Biology, University of Texas at Austin.
-
 **Academic Research Fellow.** Fall 2014 - 2016. [MEME Masters Program](https://www.evobio.eu/)
-
 • **Visiting Researcher.** Spring 2016. Department of Microbiology. Pasteur Institute.
-	
 • **Visiting Researcher.** Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.
-	
 • **Visiting Researcher.** Fall 2015. Center for Evolutionary Ecology, French National Centre for Scientific Research (CNRS).
-	
-
 **Research Assistant.** 2013 - 2014. USDA Agricultural Research Service, Gainesville, Florida.
-
 **Research Assistant.** 2013 - 2014. Department of Wildlife Ecology and Conservation, University of Florida.
-
 **Curatorial Volunteer.** 2013. Florida Museum of Natural History, University of Florida.  
-
 **Research Assistant.** 2012 - 2013. [Neighborhood Nestwatch](https://nationalzoo.si.edu/migratory-birds/neighborhood-nestwatch), Smithsonian's Conservation Biology Institute, Gainesville, Florida.
 
 
@@ -178,27 +137,19 @@ K Grond, **J Perreau**, WT Loo, AJ Spring, CM Cavanaugh, SM Hird. 2018. The effe
 
 Co-chair for the MBS Diversity and Inclusion Graduate Committee. 2020 - 2021. University of Texas at Austin.
 
-• Organized bi-weekly meetings with students to discuss department climate, DEI issues, and actions to promote DEIJ. Communicated concerns with the ICMB DEI faculty committee.
-	
-• Wrote grant applications to obtain SEED funding for the Scientist AntiRacist Toolkit (Scientist's ARTK), to promote lab-based conversations on racism, diversity, and equity in STEM. Project was supported by Drs. Shelley Payne and Keiko Torii.
-	
-• Formed a student-led seminar series focused on inviting BIPOC, LGBTQ+, and female faculty and post-docs for scientific seminars.
-	
-• Implemented a Student Rights document for the Interdisciplinary Life Sciences Graduate Program, published on our department website.
-	
+• Organized bi-weekly meetings with students to discuss department climate, DEI issues, and actions to promote DEIJ. Communicated concerns with the ICMB DEI faculty committee.	
+• Wrote grant applications to obtain SEED funding for the Scientist AntiRacist Toolkit (Scientist's ARTK), to promote lab-based conversations on racism, diversity, and equity in STEM. Project was supported by Drs. Shelley Payne and Keiko Torii.	
+• Formed a student-led seminar series focused on inviting BIPOC, LGBTQ+, and female faculty and post-docs for scientific seminars.	
+• Implemented a Student Rights document for the Interdisciplinary Life Sciences Graduate Program, published on our department website.	
 • Established communication and collaborations with student-run DEI committees in departments across the College of Natural Sciences.
 
 
 **Volunteering**
 
 Judge, CNS Undergraduate Research Forum. 2019, 2020. University of Texas at Austin.
-
 Volunteer, UT Synthetic Biology Day. 2019. University of Texas at Austin.
-
 Volunteer, Explore UT, Symbiosis of Bees and Aphids. 2017 - 2019. University of Texas at Austin.
-
 Volunteer, UT Austin Girl's Day - Women in Bio. 2017, 2018. University of Texas at Austin.
-
 Volunteer, Graduate Student Seminar Series "Chips and Dip". 2017 - 2018. University of Texas at Austin.
 
 
@@ -216,7 +167,6 @@ Professor, Department of Integrative Biology
 University of Texas at Austin
 nancy [dot] moran [at] austin [dot] utexas [dot] edu
 
-
 **Jeffrey E. Barrick**
 
 *PhD Co-Advisor*
@@ -225,7 +175,6 @@ Associate Professor of Molecular Biosciences
 University of Texas at Austin
 jbarrick [at] cm [dot] utexas [dot] edu
 
-
 **Howard Ochman**
 *BIO370 Evolution Professor*
 Joseph J. & Jeanne M. Lagowski Regents Professorship in Molecular Bioscience
@@ -233,13 +182,11 @@ Professor, Department of Integrative Biology
 University of Texas at Austin
 howard [dot] ochman [at] austin [dot] utexas [dot] edu
 
-
 **Justin Havird**
 *PhD Committee Member*
 Assistant Professor, Department of Integrative Biology
 University of Texas at Austin
 jhavird [at] utexas [dot] edu
-
 
 **Colleen M. Cavanaugh**
 *Master’s Thesis Advisor*
@@ -247,7 +194,6 @@ Edward C. Jeffrey Professor of Biology, Department of Organismic and Evolutionar
 Co-Director of the Microbial Sciences Initiative
 Harvard University
 cavanaug [at] fas [dot] harvard [dot] edu 
-
 
 **Simonetta Gribaldo**
 *Master’s Thesis Advisor*
