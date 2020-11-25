@@ -169,41 +169,41 @@ Society for Molecular Biology and Evolution (SMBE), American Society for Microbi
 Warren J. and Viola Mae Raymer Chair
 Professor, Department of Integrative Biology
 University of Texas at Austin
-nancy.moran@austin.utexas.edu
+nancy [dot] moran [at] austin [dot] utexas [dot] edu
 
 **Jeffrey E. Barrick**
 *PhD Co-Advisor*
 Fellow of the Lorene Morrow Kelley Professorship in Microbiology
 Associate Professor of Molecular Biosciences
 University of Texas at Austin
-jbarrick@cm.utexas.edu
+jbarrick [at] cm [dot] utexas [dot] edu
 
 **Howard Ochman**
 *BIO370 Evolution Professor*
 Joseph J. & Jeanne M. Lagowski Regents Professorship in Molecular Bioscience
 Professor, Department of Integrative Biology
 University of Texas at Austin
-howard.ochman@austin.utexas.edu
+howard [dot] ochman [at] austin [dot] utexas [dot] edu
 
 **Justin Havird**
 *PhD Committee Member*
 Assistant Professor, Department of Integrative Biology
 University of Texas at Austin
-jhavird@utexas.edu
+jhavird [at] utexas [dot] edu
 
 **Colleen M. Cavanaugh**
 *Master’s Thesis Advisor*
 Edward C. Jeffrey Professor of Biology, Department of Organismic and Evolutionary Biology
 Co-Director of the Microbial Sciences Initiative
 Harvard University
-cavanaug@fas.harvard.edu 
+cavanaug [at] fas [dot] harvard [dot] edu 
 
 **Simonetta Gribaldo**
 *Master’s Thesis Advisor*
 Lab Head, Evolutionary Biology of the Microbial Cell
 Department of Microbiology
 Pasteur Institute
-simonetta.gribaldo@pasteur.fr
+simonetta [dot] gribaldo [at] pasteur [dot] fr
 
 
 [back](./)
