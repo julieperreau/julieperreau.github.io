@@ -5,7 +5,7 @@ layout: default
 ## Julie Perreau<br>
 Graduate Student, Provost's Graduate Excellence Fellow<br>
 Institute for Cellular and Molecular Biology<br>
-University of Texas at Austin<br><br>
+University of Texas at Austin
 
 email: jmaperreau@gmail.com<br>
 web: http://www.julieperreau.github.io
@@ -13,14 +13,14 @@ web: http://www.julieperreau.github.io
 
 ## Education
 
-Ph.D. Microbiology. Expected 2021. **University of Texas at Austin**<br>
+Ph.D. Microbiology. Expected 2021. **University of Texas at Austin**<br>.
 Graduate Committee: Nancy A. Moran, Jeffrey E. Barrick, Justin C. Havird, Christopher S. Sullivan<br><br>
 	
-M.Sc. Evolutionary Biology. 2016. [MEME Masters Program](https://www.evobio.eu/)<br>
-• Coursework completed at: **University of Groningen**, Groningen, NL and **University of Montpellier**, Montpellier, FR<br>
-• Thesis work completed at: **Harvard University**, Boston, MA and **Pasteur Institute**, Paris, FR<br><br>
+M.Sc. Evolutionary Biology. 2016. [MEME Masters Program](https://www.evobio.eu/).<br>
+• Course work: **University of Groningen**, NL and **University of Montpellier**, FR.<br>
+• Thesis work: **Harvard University**, USA and **Pasteur Institute**, FR.<br><br>
 
-B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida**
+B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida**.
 
 
 ## Publications  
