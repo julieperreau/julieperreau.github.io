@@ -19,20 +19,20 @@ web: http://www.julieperreau.github.io
 
 Ph.D. Microbiology. Expected 2021. **University of Texas at Austin**
 
-	Graduate Committee: Nancy A. Moran, Jeffrey E. Barrick, Justin C. Havird, Christopher S. Sullivan
+Graduate Committee: Nancy A. Moran, Jeffrey E. Barrick, Justin C. Havird, Christopher S. Sullivan
 	
 M.Sc. Evolutionary Biology. 2016. [MEME Masters Program](https://www.evobio.eu/)
 
-- Coursework completed at: **University of Groningen**, Groningen, NL and **University of Montpellier**, Montpellier, FR
+• Coursework completed at: **University of Groningen**, Groningen, NL and **University of Montpellier**, Montpellier, FR
 
-- Thesis work completed at: **Harvard University**, Boston, MA and **Pasteur Institute**, Paris, FR
+• Thesis work completed at: **Harvard University**, Boston, MA and **Pasteur Institute**, Paris, FR
 
 B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida**
 
 
 ## Publications  
 
-(For an updated publication list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=OYKvQcUAAAAJ)*)  
+(For an updated publication list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=OYKvQcUAAAAJ))  
 
 KM Elston, **J Perreau**, GP Maeda, NA Moran, JE Barrick. 2020. Engineering a culturable (*Serratia symbiotica*) strain for aphid paratransgenesis. *AEM, in press*.
 
@@ -55,7 +55,7 @@ Available as a pre-print in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/
 
 **Seed Grants for Actions that promote Community Transformation (ACT).**. 2020. $5,000.
 
-	Seed funding towards development of an Anti-Racist Tool Kit (ARTK) for STEM labs.
+Seed funding towards development of an Anti-Racist Tool Kit (ARTK) for STEM labs.
 	
 **Provost’s Graduate Excellence Fellowship.** 2016.
 
@@ -71,7 +71,7 @@ Available as a pre-print in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/
 
 **Greater Everglades Student Memorial Scholarship.** 2013. $2,000.
 
-	Awarded by the Florida Chapter of The Wildlife Society and Florida Wildlife Federation
+Awarded by the Florida Chapter of The Wildlife Society and Florida Wildlife Federation
 	
 **Nancy K. Czerwinski Looney Memorial Scholarship.** $1,500. 2013.
 
@@ -87,11 +87,11 @@ SDS 328M: Biostatistics and Biostatistics Lab. Spring 2020. Department of Statis
 
 BIO 370:  Evolution. Fall 2018. Department of Integrative Biology, University of Texas at Austin.
 	
-	Course Instructors: Howard Ochman, Thomas Juenger
+Course Instructors: Howard Ochman, Thomas Juenger
 					
 Freshman Seminar 24Q: Biology of Symbioses. Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.
 
-	Course Instructor: Colleen Cavanaugh
+Course Instructor: Colleen Cavanaugh
 
 
 *Workshop Instructor:*  
@@ -105,7 +105,7 @@ Evolutionary Bioinformatics Undergraduate Group (eBUG): "Phylogenetics: Theory a
 
 Hanna A. Anderson, 2018 - Present
 
-- Awarded Undergraduate Research Fellowship in Spring 2020
+• Awarded Undergraduate Research Fellowship in Spring 2020
 
 Devki J. Patel, 2018 - Present
 
@@ -115,7 +115,7 @@ Caylee B. Carpenter, 2018 - 2019
 
 Filipa M. Marques, 2016
 
-- Amgen Scholars Program Intern for Summer 2016 
+• Amgen Scholars Program Intern for Summer 2016 
 
 *Team projects:*
 
@@ -132,18 +132,16 @@ UT Austin iGEM Team, [Broad Host Range Plasmid Kit](http://2018.igem.org/Team:Au
 
 **Academic Research Fellow.** Fall 2014 - 2016. [MEME Masters Program](https://www.evobio.eu/)
 
-	**Visiting Researcher.** Spring 2016. Department of Microbiology. Pasteur Institute.
+• **Visiting Researcher.** Spring 2016. Department of Microbiology. Pasteur Institute.
 	
-	**Visiting Researcher.** Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.
+• **Visiting Researcher.** Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.
 	
-	**Visiting Researcher.** Fall 2015. Center for Evolutionary Ecology, French National Centre for Scientific Research (CNRS).
+• **Visiting Researcher.** Fall 2015. Center for Evolutionary Ecology, French National Centre for Scientific Research (CNRS).
 	
 
 **Research Assistant.** 2013 - 2014. USDA Agricultural Research Service, Gainesville, Florida.
 
 **Research Assistant.** 2013 - 2014. Department of Wildlife Ecology and Conservation, University of Florida.
-
-	Advisor: Kathryn E. Sieving
 
 **Curatorial Volunteer.** 2013. Florida Museum of Natural History, University of Florida.  
 
@@ -166,9 +164,9 @@ K Grond, **J Perreau**, WT Loo, AJ Spring, CM Cavanaugh, SM Hird. 2018. The effe
 
 **J Perreau**, FM Marques, G Borrel, S Gribaldo. 2017. Evolutionary processes underlying the ecological success of the Diaforarchaea, an emerging superclass of the Euryarchaeota.
 
-	- Annual Meeting for the Society for Molecular Biology and Evolution (SMBE)
+• Annual Meeting for the Society for Molecular Biology and Evolution (SMBE)
 	
-	- American Society for Microbiology (ASM) Microbe
+• American Society for Microbiology (ASM) Microbe
 
 **J Perreau**, G Borrel, S Gribaldo. 2016. Gene gains drive adaptation to different environments in the Diaforarchaea, an emerging superclass of the Euryarchaeota found in ocean, peat, and the human gut. GDR Archaea Annual Conference.
 
@@ -180,15 +178,15 @@ K Grond, **J Perreau**, WT Loo, AJ Spring, CM Cavanaugh, SM Hird. 2018. The effe
 
 Co-chair for the MBS Diversity and Inclusion Graduate Committee. 2020 - 2021. University of Texas at Austin.
 
-	•	Organized bi-weekly meetings with students to discuss department climate, DEI issues, and actions to promote DEIJ. Communicated concerns with the ICMB DEI faculty committee.
+• Organized bi-weekly meetings with students to discuss department climate, DEI issues, and actions to promote DEIJ. Communicated concerns with the ICMB DEI faculty committee.
 	
-	• Wrote grant applications to obtain SEED funding for the Scientist AntiRacist Toolkit (Scientist's ARTK), to promote lab-based conversations on racism, diversity, and equity in STEM. Project was supported by Drs. Shelley Payne and Keiko Torii.
+• Wrote grant applications to obtain SEED funding for the Scientist AntiRacist Toolkit (Scientist's ARTK), to promote lab-based conversations on racism, diversity, and equity in STEM. Project was supported by Drs. Shelley Payne and Keiko Torii.
 	
-	•	Formed a student-led seminar series focused on inviting BIPOC, LGBTQ+, and female faculty and post-docs for scientific seminars.
+• Formed a student-led seminar series focused on inviting BIPOC, LGBTQ+, and female faculty and post-docs for scientific seminars.
 	
-	•	Implemented a Student Rights document for the Interdisciplinary Life Sciences Graduate Program, published on our department website.
+• Implemented a Student Rights document for the Interdisciplinary Life Sciences Graduate Program, published on our department website.
 	
-	•	Established communication and collaborations with student-run DEI committees in departments across the College of Natural Sciences.
+• Established communication and collaborations with student-run DEI committees in departments across the College of Natural Sciences.
 
 
 **Volunteering**
@@ -287,4 +285,3 @@ Pasteur Institute
 simonetta [dot] gribaldo [at] pasteur [dot] fr
 
 
-[back](./)
