@@ -8,7 +8,7 @@ Institute for Cellular and Molecular Biology<br>
 University of Texas at Austin
 
 email: jmaperreau@gmail.com<br>
-web: [julieperreau.github.io](julieperreau.github.io)
+web: julieperreau.github.io
 
 
 ## Education
