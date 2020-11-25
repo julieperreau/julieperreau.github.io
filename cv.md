@@ -44,7 +44,7 @@ Available as a pre-print at [*bioRxiv*](https://www.biorxiv.org/content/10.1101/
 ## Grants, Fellowships, and Awards  
 
 **Seed Grants for Actions that promote Community Transformation (ACT).**. 2020. $5,000.<br>
-Seed funding towards development of an Anti-Racist Tool Kit (ARTK) for STEM labs.<br>
+• Seed funding towards development of an Anti-Racist Tool Kit (ARTK) for STEM labs.<br>
 **Provost’s Graduate Excellence Fellowship.** 2016.<br>
 **Hamilton Endowed Grad Fellowship.** 2020. $4,000.<br>
 **Integrative Biology Research Grant.** 2018. $2,000.<br>
@@ -52,7 +52,7 @@ Seed funding towards development of an Anti-Racist Tool Kit (ARTK) for STEM labs
 **National Wildlife Federation EcoLeaders Research Fellowship.** 2013. $2,000.<br>
 **University of Florida University Scholars Program Fellow.** 2013. $1,750.<br>
 **Greater Everglades Student Memorial Scholarship.** 2013. $2,000.<br>
-Awarded by the Florida Chapter of The Wildlife Society and Florida Wildlife Federation.<br>
+• Awarded by the Florida Chapter of The Wildlife Society and Florida Wildlife Federation.<br>
 **Nancy K. Czerwinski Looney Memorial Scholarship.** $1,500. 2013.<br>
 **Monica Christina Stokely Memorial Scholarship.** $1,250. 2012.
 
@@ -61,15 +61,19 @@ Awarded by the Florida Chapter of The Wildlife Society and Florida Wildlife Fede
 
 *Teaching Assistant:*  
 
-SDS 328M: Biostatistics and Biostatistics Lab. 2020. Department of Statistics and Data Sciences, University of Texas at Austin.<br>
-BIO 370:  Evolution. 2018. Department of Integrative Biology, University of Texas at Austin.<br>
+**SDS 328M: Biostatistics and Biostatistics Lab.** 2020.<br>
+• Department of Statistics and Data Sciences, University of Texas at Austin.<br>
+**BIO 370:  Evolution.** 2018.<br>
+• Department of Integrative Biology, University of Texas at Austin.<br>
 • Course Instructors: Howard Ochman, Thomas Juenger<br>
-Freshman Seminar 24Q: Biology of Symbioses. 2015. Department of Organismic and Evolutionary Biology, Harvard University.<br>
+**Freshman Seminar 24Q: Biology of Symbioses.** 2015.<br>
+• Department of Organismic and Evolutionary Biology, Harvard University.<br>
 • Course Instructor: Colleen Cavanaugh<br>
 
 *Workshop Instructor:*
 
-Evolutionary Bioinformatics Undergraduate Group (eBUG): "Phylogenetics: Theory and Application". 2020. University of Texas at Austin.
+Evolutionary Bioinformatics Undergraduate Group (eBUG): "Phylogenetics: Theory and Application". 2020.<br>
+University of Texas at Austin.
 
 
 ## Mentoring and Advising
