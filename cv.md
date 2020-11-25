@@ -8,7 +8,7 @@ Institute for Cellular and Molecular Biology<br>
 University of Texas at Austin
 
 email: jmaperreau@gmail.com<br>
-web: http://www.julieperreau.github.io
+web: [http://www.julieperreau.github.io](http://www.julieperreau.github.io)
 
 
 ## Education
@@ -34,13 +34,13 @@ H Zheng, **J Perreau**, JE Powell, B Han, Z Zhang, WK Kwong, SG Tringe, NA Moran
 K Grond\*, **J Perreau\***, WT Loo\*, AJ Spring, CM Cavanaugh, SM Hird. 2019. Longitudinal microbiome profiling reveals impermanence of probiotic bacteria in domestic pigeons. *PLOS One* 14(6): e0217804.<br>
 \* Contributed equally to this work
 
-EJP Lievens, J Perreau, P Agnew, Y Michalakis, T Lenormand. 2018. Decomposing parasite fitness reveals the basis of specialization in a two‐host, two‐parasite system. *Evolution Letters* 2-4: 390-405.
+EJP Lievens, **J Perreau**, P Agnew, Y Michalakis, T Lenormand. 2018. Decomposing parasite fitness reveals the basis of specialization in a two‐host, two‐parasite system. *Evolution Letters* 2-4: 390-405.
 
 
 ## Publications in preparation or review
 
 **J Perreau**, D Patel, H Anderson, GP Maeda, KM Elston, JE Barrick, NA Moran. 2020. Vertical transmission at the pathogen-symbiont interface: (*Serratia symbiotica*) and aphids. 
-Available as a pre-print in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.09.01.279018v2)
+Available as a pre-print at [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.09.01.279018v2)
 
 
 ## Grants, Fellowships, and Awards  
