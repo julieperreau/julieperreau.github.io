@@ -4,13 +4,13 @@ layout: default
 
 ## Julie Perreau
 
-Graduate Student, Provost Graduate Excellence Fellow<\n>
+Graduate Student, Provost Graduate Excellence Fellow
 
-Institute for Cellular and Molecular Biology<\n>
+Institute for Cellular and Molecular Biology
 
-University of Texas at Austin<\n>
+University of Texas at Austin
 
-email: jmaperreau@gmail.com<\n>
+email: jmaperreau@gmail.com
 
 web: http://www.julieperreau.github.io
 
