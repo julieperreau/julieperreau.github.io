@@ -10,7 +10,7 @@ University of Texas at Austin
 
 email: <a class="email" href="mailto:jmaperreau@gmail.com">jmaperreau@gmail.com</a><br>
 web: [julieperreau.github.io](https://julieperreau.github.io/)<br>
-google scholar: [Julie Perreau](https://scholar.google.com/citations?hl=en&user=OYKvQcUAAAAJ))  
+pubs: [google scholar](https://scholar.google.com/citations?hl=en&user=OYKvQcUAAAAJ)
 
 ## Education
 
