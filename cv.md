@@ -13,7 +13,7 @@ web: [https://julieperreau.github.io/](https://julieperreau.github.io/)
 
 ## Education
 
-Ph.D. Microbiology. Expected 2021. **University of Texas at Austin**.<br>
+Ph.D. Candidate in Microbiology. 2016 - Present. **University of Texas at Austin**.<br>
 Graduate Committee: Nancy A. Moran, Jeffrey E. Barrick, Justin C. Havird, Christopher S. Sullivan
 
 M.Sc. Evolutionary Biology. 2016. [MEME Masters Program](https://www.evobio.eu/).<br>
