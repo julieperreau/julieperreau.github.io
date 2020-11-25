@@ -15,8 +15,7 @@ pubs: [google scholar](https://scholar.google.com/citations?hl=en&user=OYKvQcUAA
 ## Education
 
 Ph.D. Candidate in Microbiology. 2016 - Present. **University of Texas at Austin**.<br>
-• Committee: Nancy A. Moran, Jeffrey E. Barrick<br>
-	     Justin C. Havird, Christopher S. Sullivan
+• Committee: Nancy A. Moran, Jeffrey E. Barrick, Justin C. Havird, Christopher S. Sullivan
 
 M.Sc. Evolutionary Biology. 2016. [MEME Masters Program](https://www.evobio.eu/).<br>
 • Course work: **University of Groningen**, NL and **University of Montpellier**, FR.<br>
