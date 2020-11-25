@@ -43,46 +43,29 @@ Available as a pre-print at [*bioRxiv*](https://www.biorxiv.org/content/10.1101/
 
 ## Grants, Fellowships, and Awards  
 
-**Seed Grants for Actions that promote Community Transformation (ACT).**. 2020. $5,000.
-
-Seed funding towards development of an Anti-Racist Tool Kit (ARTK) for STEM labs.
-
-**Provost’s Graduate Excellence Fellowship.** 2016.
-
-**Hamilton Endowed Grad Fellowship.** 2020. $4,000.
-
-**Integrative Biology Research Grant.** 2018. $2,000.
-
-**EACEA Erasmus Mundus Fellowship.** 2014-2016.	€50,000
-
-**National Wildlife Federation EcoLeaders Research Fellowship.** 2013. $2,000.
-
-**University of Florida University Scholars Program Fellow.** 2013. $1,750.
-
-**Greater Everglades Student Memorial Scholarship.** 2013. $2,000.
-
-Awarded by the Florida Chapter of The Wildlife Society and Florida Wildlife Federation
-
-**Nancy K. Czerwinski Looney Memorial Scholarship.** $1,500. 2013.
-
+**Seed Grants for Actions that promote Community Transformation (ACT).**. 2020. $5,000.<br>
+Seed funding towards development of an Anti-Racist Tool Kit (ARTK) for STEM labs.<br>
+**Provost’s Graduate Excellence Fellowship.** 2016.<br>
+**Hamilton Endowed Grad Fellowship.** 2020. $4,000.<br>
+**Integrative Biology Research Grant.** 2018. $2,000.<br>
+**EACEA Erasmus Mundus Fellowship.** 2014-2016.	€50,000.<br>
+**National Wildlife Federation EcoLeaders Research Fellowship.** 2013. $2,000.<br>
+**University of Florida University Scholars Program Fellow.** 2013. $1,750.<br>
+**Greater Everglades Student Memorial Scholarship.** 2013. $2,000.<br>
+Awarded by the Florida Chapter of The Wildlife Society and Florida Wildlife Federation.<br>
+**Nancy K. Czerwinski Looney Memorial Scholarship.** $1,500. 2013.<br>
 **Monica Christina Stokely Memorial Scholarship.** $1,250. 2012.
-
 
 
 ## Teaching Experience
 
 *Teaching Assistant:*  
 
-SDS 328M: Biostatistics and Biostatistics Lab. Spring 2020. Department of Statistics and Data Sciences, University of Texas at Austin.
-
-BIO 370:  Evolution. Fall 2018. Department of Integrative Biology, University of Texas at Austin.
-
-• Course Instructors: Howard Ochman, Thomas Juenger
-
-Freshman Seminar 24Q: Biology of Symbioses. Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.
-
-• Course Instructor: Colleen Cavanaugh
-
+SDS 328M: Biostatistics and Biostatistics Lab. Spring 2020. Department of Statistics and Data Sciences, University of Texas at Austin.<br>
+BIO 370:  Evolution. Fall 2018. Department of Integrative Biology, University of Texas at Austin.<br>
+• Course Instructors: Howard Ochman, Thomas Juenger<br>
+Freshman Seminar 24Q: Biology of Symbioses. Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.<br>
+• Course Instructor: Colleen Cavanaugh<br>
 
 *Workshop Instructor:*
 
@@ -109,23 +92,16 @@ UT Austin iGEM Team, [Broad Host Range Plasmid Kit](http://2018.igem.org/Team:Au
 
 ## Appointments
 
-**Provost Graduate Excellence Fellow.**. 2016 – Present. Institute for Cellular and Molecular Biology, University of Texas at Austin.
-
-**Graduate Teaching Assistant.** Spring 2020. Department of Statistics and Data Sciences, University of Texas at Austin.
-
-**Graduate Teaching Assistant.** Fall 2018. Department of Integrative Biology, University of Texas at Austin.
-
+**Provost Graduate Excellence Fellow.**. 2016 – Present. Institute for Cellular and Molecular Biology, University of Texas at Austin.<br>
+**Graduate Teaching Assistant.** Spring 2020. Department of Statistics and Data Sciences, University of Texas at Austin.<br>
+**Graduate Teaching Assistant.** Fall 2018. Department of Integrative Biology, University of Texas at Austin.<br>
 **Academic Research Fellow.** Fall 2014 - 2016. [MEME Masters Program](https://www.evobio.eu/)<br>
 • **Visiting Researcher.** Spring 2016. Department of Microbiology. Pasteur Institute.<br>
 • **Visiting Researcher.** Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.<br>
 • **Visiting Researcher.** Fall 2015. Center for Evolutionary Ecology, French National Centre for Scientific Research (CNRS).
-
-**Research Assistant.** 2013 - 2014. USDA Agricultural Research Service, Gainesville, Florida.
-
-**Research Assistant.** 2013 - 2014. Department of Wildlife Ecology and Conservation, University of Florida.
-
-**Curatorial Volunteer.** 2013. Florida Museum of Natural History, University of Florida.
-
+**Research Assistant.** 2013 - 2014. USDA Agricultural Research Service, Gainesville, Florida.<br>
+**Research Assistant.** 2013 - 2014. Department of Wildlife Ecology and Conservation, University of Florida.<br>
+**Curatorial Volunteer.** 2013. Florida Museum of Natural History, University of Florida.<br>
 **Research Assistant.** 2012 - 2013. [Neighborhood Nestwatch](https://nationalzoo.si.edu/migratory-birds/neighborhood-nestwatch), Smithsonian's Conservation Biology Institute, Gainesville, Florida.
 
 
