@@ -5,8 +5,8 @@ google_analytics: G-KKQ46BRWC9
 permalink: /:categories/:year-:month-:day-:title.html
 pages_list:
   Home: '/index'
-  CV and Publications: '/cv'
+  CV: '/cv'
 plugins:
   - jekyll-feed
- github: [metadata]
+github: [metadata]
  
