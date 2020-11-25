@@ -9,7 +9,8 @@ Institute for Cellular and Molecular Biology<br>
 University of Texas at Austin
 
 email: <a class="email" href="mailto:jmaperreau@gmail.com">jmaperreau@gmail.com</a><br>
-web: [https://julieperreau.github.io/](https://julieperreau.github.io/)
+web: [julieperreau.github.io](https://julieperreau.github.io/)<br>
+google scholar: [Julie Perreau](https://scholar.google.com/citations?hl=en&user=OYKvQcUAAAAJ))  
 
 ## Education
 
@@ -22,10 +23,7 @@ M.Sc. Evolutionary Biology. 2016. [MEME Masters Program](https://www.evobio.eu/)
 
 B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida**.
 
-
-## Publications  
-
-(For an updated publication list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=OYKvQcUAAAAJ))  
+## Publications
 
 KM Elston, **J Perreau**, GP Maeda, NA Moran, JE Barrick. 2020. Engineering a culturable (*Serratia symbiotica*) strain for aphid paratransgenesis. *AEM, in press*.
 
