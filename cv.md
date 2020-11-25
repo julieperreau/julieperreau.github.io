@@ -93,18 +93,12 @@ Evolutionary Bioinformatics Undergraduate Group (eBUG): "Phylogenetics: Theory a
 
 *Undergraduate researchers:*  
 
-Hanna A. Anderson, 2018 - Present
-
-• Awarded Undergraduate Research Fellowship in Spring 2020
-
-Devki J. Patel, 2018 - Present
-
-Ali Askari, 2019 - 2020
-
-Caylee B. Carpenter, 2018 - 2019
-
-Filipa M. Marques, 2016
-
+Hanna A. Anderson, 2018 - Present<br>
+• Awarded Undergraduate Research Fellowship in Spring 2020<br>
+Devki J. Patel, 2018 - Present<br>
+Ali Askari, 2019 - 2020<br>
+Caylee B. Carpenter, 2018 - 2019<br>
+Filipa M. Marques, 2016<br>
 • Amgen Scholars Program Intern for Summer 2016
 
 
@@ -121,12 +115,9 @@ UT Austin iGEM Team, [Broad Host Range Plasmid Kit](http://2018.igem.org/Team:Au
 
 **Graduate Teaching Assistant.** Fall 2018. Department of Integrative Biology, University of Texas at Austin.
 
-**Academic Research Fellow.** Fall 2014 - 2016. [MEME Masters Program](https://www.evobio.eu/)
-
-• **Visiting Researcher.** Spring 2016. Department of Microbiology. Pasteur Institute.
-
-• **Visiting Researcher.** Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.
-
+**Academic Research Fellow.** Fall 2014 - 2016. [MEME Masters Program](https://www.evobio.eu/)<br>
+• **Visiting Researcher.** Spring 2016. Department of Microbiology. Pasteur Institute.<br>
+• **Visiting Researcher.** Fall 2015. Department of Organismic and Evolutionary Biology, Harvard University.<br>
 • **Visiting Researcher.** Fall 2015. Center for Evolutionary Ecology, French National Centre for Scientific Research (CNRS).
 
 **Research Assistant.** 2013 - 2014. USDA Agricultural Research Service, Gainesville, Florida.
@@ -152,10 +143,8 @@ K Grond, **J Perreau**, WT Loo, AJ Spring, CM Cavanaugh, SM Hird. 2018. The effe
 
 **J Perreau**, H Zheng, JE Powell, NA Moran. 2017. Strain-level specialization in polysaccharide metabolism of the gut microbiota of bees. 2017.  University of Texas Institute for Cellular and Molecular Biology Retreat. 2017.
 
-**J Perreau**, FM Marques, G Borrel, S Gribaldo. 2017. Evolutionary processes underlying the ecological success of the Diaforarchaea, an emerging superclass of the Euryarchaeota.
-
-• Annual Meeting for the Society for Molecular Biology and Evolution (SMBE)
-	
+**J Perreau**, FM Marques, G Borrel, S Gribaldo. 2017. Evolutionary processes underlying the ecological success of the Diaforarchaea, an emerging superclass of the Euryarchaeota.<br>
+• Annual Meeting for the Society for Molecular Biology and Evolution (SMBE)<br>
 • American Society for Microbiology (ASM) Microbe
 
 **J Perreau**, G Borrel, S Gribaldo. 2016. Gene gains drive adaptation to different environments in the Diaforarchaea, an emerging superclass of the Euryarchaeota found in ocean, peat, and the human gut. GDR Archaea Annual Conference.
@@ -168,19 +157,19 @@ K Grond, **J Perreau**, WT Loo, AJ Spring, CM Cavanaugh, SM Hird. 2018. The effe
 
 Co-chair for the MBS Diversity and Inclusion Graduate Committee. 2020 - 2021. University of Texas at Austin.
 
-• Organized bi-weekly meetings with students to discuss department climate, DEI issues, and actions to promote DEIJ. Communicated concerns with the ICMB DEI faculty committee.	
-• Wrote grant applications to obtain SEED funding for the Scientist AntiRacist Toolkit (Scientist's ARTK), to promote lab-based conversations on racism, diversity, and equity in STEM. Project was supported by Drs. Shelley Payne and Keiko Torii.	
-• Formed a student-led seminar series focused on inviting BIPOC, LGBTQ+, and female faculty and post-docs for scientific seminars.	
-• Implemented a Student Rights document for the Interdisciplinary Life Sciences Graduate Program, published on our department website.	
+• Organized bi-weekly meetings with students to discuss department climate, DEI issues, and actions to promote DEIJ. Communicated concerns with the ICMB DEI faculty committee.<br>
+• Wrote grant applications to obtain SEED funding for the Scientist AntiRacist Toolkit (Scientist's ARTK), to promote lab-based conversations on racism, diversity, and equity in STEM. Project was supported by Drs. Shelley Payne and Keiko Torii.<br>
+• Formed a student-led seminar series focused on inviting BIPOC, LGBTQ+, and female faculty and post-docs for scientific seminars.<br>	
+• Implemented a Student Rights document for the Interdisciplinary Life Sciences Graduate Program, published on our department website.<br>	
 • Established communication and collaborations with student-run DEI committees in departments across the College of Natural Sciences.
 
 
 **Volunteering**
 
-Judge, CNS Undergraduate Research Forum. 2019, 2020. University of Texas at Austin.
-Volunteer, UT Synthetic Biology Day. 2019. University of Texas at Austin.
-Volunteer, Explore UT, Symbiosis of Bees and Aphids. 2017 - 2019. University of Texas at Austin.
-Volunteer, UT Austin Girl's Day - Women in Bio. 2017, 2018. University of Texas at Austin.
+Judge, CNS Undergraduate Research Forum. 2019, 2020. University of Texas at Austin.<br>
+Volunteer, UT Synthetic Biology Day. 2019. University of Texas at Austin.<br>
+Volunteer, Explore UT, Symbiosis of Bees and Aphids. 2017 - 2019. University of Texas at Austin.<br>
+Volunteer, UT Austin Girl's Day - Women in Bio. 2017, 2018. University of Texas at Austin.<br>
 Volunteer, Graduate Student Seminar Series "Chips and Dip". 2017 - 2018. University of Texas at Austin.
 
 
@@ -199,7 +188,6 @@ University of Texas at Austin<br>
 nancy [dot] moran [at] austin [dot] utexas [dot] edu
 
 **Jeffrey E. Barrick**
-
 *PhD Co-Advisor*<br>
 Fellow of the Lorene Morrow Kelley Professorship in Microbiology<br>
 Associate Professor of Molecular Biosciences<br>
