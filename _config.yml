@@ -1,5 +1,5 @@
-title: "Julie Perreau"
-description: "Graduate student at the University of Texas at Austin"
+title: Julie Perreau
+description: Graduate student at the University of Texas at Austin
 show_downloads: true
 google_analytics: G-KKQ46BRWC9
 permalink: /:categories/:year-:month-:day-:title.html
@@ -9,3 +9,4 @@ pages_list:
 plugins:
   - jekyll-feed
  github: [metadata]
+ 
