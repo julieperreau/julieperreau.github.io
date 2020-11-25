@@ -14,11 +14,11 @@ web: [julieperreau.github.io](julieperreau.github.io)
 ## Education
 
 Ph.D. Microbiology. Expected 2021. **University of Texas at Austin**<br>.
-Graduate Committee: Nancy A. Moran, Jeffrey E. Barrick, Justin C. Havird, Christopher S. Sullivan<br><br>
-	
+Graduate Committee: Nancy A. Moran, Jeffrey E. Barrick, Justin C. Havird, Christopher S. Sullivan
+
 M.Sc. Evolutionary Biology. 2016. [MEME Masters Program](https://www.evobio.eu/).<br>
 • Course work: **University of Groningen**, NL and **University of Montpellier**, FR.<br>
-• Thesis work: **Harvard University**, USA and **Pasteur Institute**, FR.<br><br>
+• Thesis work: **Harvard University**, USA and **Pasteur Institute**, FR.
 
 B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida**.
 
