@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Julie Perreau<br>
-Graduate Student, Provost Graduate Excellence Fellow<br>
+Graduate Student, Provost's Graduate Excellence Fellow<br>
 Institute for Cellular and Molecular Biology<br>
 University of Texas at Austin<br><br>
 
