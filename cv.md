@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# This page was updated on February 27, 2021<br><br>
+
+Updated on February 27, 2021
 
 ## Julie Perreau
 
