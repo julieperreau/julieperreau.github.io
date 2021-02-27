@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# This page was updated on February 27, 2021<br><br>
 
 ## Julie Perreau
 
@@ -25,9 +26,9 @@ B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida
 
 ## Publications
 
-KM Elston, **J Perreau**, GP Maeda, NA Moran, JE Barrick. 2020. Engineering a culturable (*Serratia symbiotica*) strain for aphid paratransgenesis. *AEM, in press*.
+KM Elston, **J Perreau**, GP Maeda, NA Moran, JE Barrick. 2021. Engineering a culturable (*Serratia symbiotica*) strain for aphid paratransgenesis. *AEM* 87(4): e02245-20.
 
-H Zheng, **J Perreau**, JE Powell, B Han, Z Zhang, WK Kwong, SG Tringe, NA Moran. 2019. Division of labor in honey bee gut microbiota for plant polysaccharide digestion. *PNAS* 116 (51) 25909-25916.
+H Zheng, **J Perreau**, JE Powell, B Han, Z Zhang, WK Kwong, SG Tringe, NA Moran. 2019. Division of labor in honey bee gut microbiota for plant polysaccharide digestion. *PNAS* 116(51): 25909-25916.
 
 K Grond\*, **J Perreau\***, WT Loo\*, AJ Spring, CM Cavanaugh, SM Hird. 2019. Longitudinal microbiome profiling reveals impermanence of probiotic bacteria in domestic pigeons. *PLOS One* 14(6): e0217804.<br>
 \* Contributed equally to this work
@@ -37,8 +38,10 @@ EJP Lievens, **J Perreau**, P Agnew, Y Michalakis, T Lenormand. 2018. Decomposin
 
 ## Publications in preparation or review
 
-**J Perreau**, D Patel, H Anderson, GP Maeda, KM Elston, JE Barrick, NA Moran. 2020. Vertical transmission at the pathogen-symbiont interface: (*Serratia symbiotica*) and aphids. 
+**J Perreau**, D Patel, H Anderson, GP Maeda, KM Elston, JE Barrick, NA Moran. 2021. Vertical transmission at the pathogen-symbiont interface: (*Serratia symbiotica*) and aphids. *In review.*
 Available as a pre-print at [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.09.01.279018v2)
+
+**J Perreau**, B Zhang, GP Maeda, M Kirkpatrick, NA Moran. 2021. Strong within-host selection in a maternally inherited obligate symbiont: *Buchnera* and aphids. *Submitted.*
 
 
 ## Grants, Fellowships, and Awards  
