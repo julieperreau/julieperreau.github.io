@@ -3,6 +3,7 @@ layout: default
 ---
 
 Updated on February 27, 2021
+PDF available for download [here]](https://docs.google.com/document/d/1cOsBhQ6L_87ncrwEg6l_HGf6-LJaGLHz2TDqmzQ9PdU/edit?usp=sharing)
 
 ## Julie Perreau
 
