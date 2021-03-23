@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on February 27, 2021<br>
+Updated on March 23, 2021<br>
 PDF available for download [here](https://docs.google.com/document/d/1cOsBhQ6L_87ncrwEg6l_HGf6-LJaGLHz2TDqmzQ9PdU/edit?usp=sharing)
 
 ## Julie Perreau
@@ -11,7 +11,7 @@ Graduate Student, Provost's Graduate Excellence Fellow<br>
 Institute for Cellular and Molecular Biology<br>
 University of Texas at Austin
 
-email: <a class="email" href="mailto:jmaperreau@gmail.com">jmaperreau@gmail.com</a><br>
+email: <a class="email" href="mailto:jmaperreau@gmail.com">jmaperreau [at] gmail [dot] com</a><br>
 web: [julieperreau.github.io](https://julieperreau.github.io/)<br>
 pubs on [google scholar](https://scholar.google.com/citations?hl=en&user=OYKvQcUAAAAJ)
 
@@ -28,6 +28,9 @@ B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida
 
 ## Publications
 
+**J Perreau**, D Patel, H Anderson, GP Maeda, KM Elston, JE Barrick, NA Moran. 2021. Vertical transmission at the pathogen-symbiont interface: (*Serratia symbiotica*) and aphids. *In press, mBio*
+Available as a pre-print at [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.09.01.279018v2)
+
 KM Elston, **J Perreau**, GP Maeda, NA Moran, JE Barrick. 2021. Engineering a culturable (*Serratia symbiotica*) strain for aphid paratransgenesis. *AEM* 87(4): e02245-20.
 
 H Zheng, **J Perreau**, JE Powell, B Han, Z Zhang, WK Kwong, SG Tringe, NA Moran. 2019. Division of labor in honey bee gut microbiota for plant polysaccharide digestion. *PNAS* 116(51): 25909-25916.
@@ -40,11 +43,10 @@ EJP Lievens, **J Perreau**, P Agnew, Y Michalakis, T Lenormand. 2018. Decomposin
 
 ## Publications in preparation or review
 
-**J Perreau**, D Patel, H Anderson, GP Maeda, KM Elston, JE Barrick, NA Moran. 2021. Vertical transmission at the pathogen-symbiont interface: (*Serratia symbiotica*) and aphids. *In review.*
-Available as a pre-print at [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.09.01.279018v2)
+**J Perreau\***, B Zhang\*, GP Maeda, M Kirkpatrick, NA Moran. 2021. Strong within-host selection in a maternally inherited obligate symbiont: *Buchnera* and aphids. *In review.*
+\* Contributed equally to this work
 
-**J Perreau**, B Zhang, GP Maeda, M Kirkpatrick, NA Moran. 2021. Strong within-host selection in a maternally inherited obligate symbiont: *Buchnera* and aphids. *Submitted.*
-
+**J Perreau**, N Moran. 2021. Genetic Innovation in Animal-Microbe Symbioses. *Submitted.*
 
 ## Grants, Fellowships, and Awards  
 
