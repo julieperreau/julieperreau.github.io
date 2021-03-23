@@ -28,7 +28,7 @@ B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida
 
 ## Publications
 
-**J Perreau**, D Patel, H Anderson, GP Maeda, KM Elston, JE Barrick, NA Moran. 2021. Vertical transmission at the pathogen-symbiont interface: (*Serratia symbiotica*) and aphids. *In press, mBio*
+**J Perreau**, D Patel, H Anderson, GP Maeda, KM Elston, JE Barrick, NA Moran. 2021. Vertical transmission at the pathogen-symbiont interface: (*Serratia symbiotica*) and aphids. *In press, mBio*<br>
 Available as a pre-print at [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.09.01.279018v2)
 
 KM Elston, **J Perreau**, GP Maeda, NA Moran, JE Barrick. 2021. Engineering a culturable (*Serratia symbiotica*) strain for aphid paratransgenesis. *AEM* 87(4): e02245-20.
@@ -43,10 +43,10 @@ EJP Lievens, **J Perreau**, P Agnew, Y Michalakis, T Lenormand. 2018. Decomposin
 
 ## Publications in preparation or review
 
-**J Perreau\***, B Zhang\*, GP Maeda, M Kirkpatrick, NA Moran. 2021. Strong within-host selection in a maternally inherited obligate symbiont: *Buchnera* and aphids. *In review.*
+**J Perreau\***, B Zhang\*, GP Maeda, M Kirkpatrick, NA Moran. 2021. Strong within-host selection in a maternally inherited obligate symbiont: *Buchnera* and aphids. *In review.*<br>
 \* Contributed equally to this work
 
-**J Perreau**, N Moran. 2021. Genetic Innovation in Animal-Microbe Symbioses. *Submitted.*
+**J Perreau**, N Moran. 2021. Genetic innovation in animal-microbe symbioses. *In review.*
 
 ## Grants, Fellowships, and Awards  
 
