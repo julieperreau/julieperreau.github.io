@@ -28,8 +28,7 @@ B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida
 
 ## Publications
 
-**J Perreau**, D Patel, H Anderson, GP Maeda, KM Elston, JE Barrick, NA Moran. 2021. Vertical transmission at the pathogen-symbiont interface: (*Serratia symbiotica*) and aphids. *In press, mBio*<br>
-Available as a pre-print at [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.09.01.279018v2)
+**J Perreau**, D Patel, H Anderson, GP Maeda, KM Elston, JE Barrick, NA Moran. 2021. Vertical transmission at the pathogen-symbiont interface: (*Serratia symbiotica*) and aphids. * mBio* 12:e00359-21.<br>
 
 KM Elston, **J Perreau**, GP Maeda, NA Moran, JE Barrick. 2021. Engineering a culturable (*Serratia symbiotica*) strain for aphid paratransgenesis. *AEM* 87(4): e02245-20.
 
