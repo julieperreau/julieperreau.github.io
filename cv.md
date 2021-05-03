@@ -30,7 +30,7 @@ B.A. with Honors. Wildlife Ecology & Conservation. 2014. **University of Florida
 
 **J Perreau**, D Patel, H Anderson, GP Maeda, KM Elston, JE Barrick, NA Moran. 2021. Vertical transmission at the pathogen-symbiont interface: *Serratia symbiotica* and aphids. *mBio* 12:e00359-21.<br>
 
-KM Elston, **J Perreau**, GP Maeda, NA Moran, JE Barrick. 2021. Engineering a culturable (*Serratia symbiotica*) strain for aphid paratransgenesis. *AEM* 87(4): e02245-20.
+KM Elston, **J Perreau**, GP Maeda, NA Moran, JE Barrick. 2021. Engineering a culturable *Serratia symbiotica* strain for aphid paratransgenesis. *AEM* 87(4): e02245-20.
 
 H Zheng, **J Perreau**, JE Powell, B Han, Z Zhang, WK Kwong, SG Tringe, NA Moran. 2019. Division of labor in honey bee gut microbiota for plant polysaccharide digestion. *PNAS* 116(51): 25909-25916.
 
