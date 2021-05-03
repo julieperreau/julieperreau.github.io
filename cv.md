@@ -49,7 +49,7 @@ EJP Lievens, **J Perreau**, P Agnew, Y Michalakis, T Lenormand. 2018. Decomposin
 
 ## Grants, Fellowships, and Awards  
 
-**Seed Grants for Actions that promote Community Transformation (ACT).**. 2020. $5,000.<br>
+**Seed Grants for Actions that promote Community Transformation (ACT).** 2020. $5,000.<br>
 • Seed funding towards development of an Anti-Racist Tool Kit (ARTK) for STEM labs.<br>
 **Provost’s Graduate Excellence Fellowship.** 2016.<br>
 **Hamilton Endowed Grad Fellowship.** 2020. $4,000.<br>
