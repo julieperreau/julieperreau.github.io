@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Genomics Senior Scientist @ Bruker, Microbiology PhD & Evolutionary Biology MSc
+subtitle: Genomics Senior Scientist @ Bruker  
+Microbiology PhD & Evolutionary Biology MSc
 
 profile:
   align: right
