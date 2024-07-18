@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Genomics Senior Scientist @ Bruker 
+subtitle: jmaperreau@gmail.com
 
 profile:
-  align: right
-  image: headshot_1.jpeg
+  align: left
+  image: headshot_2.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Emeryville, California 94608</p>
+#  more_info: >
+#    <p>Emeryville, California 94608</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
