@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p> Senior Scientist, Genomics</p>
     <p>Bruker Cellular Analysis</p>
     <p>Emeryville, CA, 94608</p>
 
