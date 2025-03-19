@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior Scientist, Genomics @ Bruker Cellular Analysis</a>. Emeryville, CA, 94608.
+subtitle: Senior Scientist, Genomics
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Senior Scientist, Genomics</p>
     <p>Bruker Cellular Analysis</p>
     <p>Emeryville, CA, 94608</p>
 
