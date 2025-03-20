@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! Welcome! This is my website for showcasing my bioinformatics skills. Please check out the Projects tab for some of my scripts and the figures they generated.
+Hello! Welcome! This is my website for showcasing my personal bioinformatics projects. Please check out the Projects tab for some of my scripts and the figures they generated.
