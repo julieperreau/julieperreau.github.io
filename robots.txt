@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jperreau.github.io/sitemap.xml
+Sitemap: https://julieperreau.github.io/sitemap.xml
